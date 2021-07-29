@@ -9,4 +9,5 @@ fun main() {
 
      val Jenis = Alat("" , "" , "")
 
+
  }
