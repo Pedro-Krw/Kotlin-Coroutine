@@ -13,7 +13,3 @@ fun main() {
 
 
  }
-
-class meet{
-
-}
