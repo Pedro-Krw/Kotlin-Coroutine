@@ -9,9 +9,11 @@ fun main() {
 
      val Jenis = Alat("" , "" , "")
 
-     val nama :  String by lazy{
 
-     }
 
 
  }
+
+class meet{
+
+}
